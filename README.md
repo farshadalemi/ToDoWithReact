@@ -1,7 +1,7 @@
 **"Please be notified to checkout to the master branch."**
 
 
-![alt text]([https://github.com/farshadalemi/ToDoWithReact/blob/main/Screenshot%20from%202024-04-30%2015-04-03.png]?raw=true)
+![alt text](https://github.com/farshadalemi/ToDoWithReact/blob/main/Screenshot%20from%202024-04-30%2015-04-03.png?raw=true)
 
 
 # Getting Started with Create React App
