@@ -1,7 +1,7 @@
 **"Please be notified to checkout to the master branch."**
 
 <p align="center">
-  <img src="[Screenshot from 2024-04-30 15-04-03.png](https://github.com/farshadalemi/ToDoWithReact/blob/main/Screenshot%20from%202024-04-30%2015-04-03.png))" width="350" title="hover text">
+  <img src="[[Screenshot from 2024-04-30 15-04-03.png](https://github.com/farshadalemi/ToDoWithReact/blob/main/Screenshot%20from%202024-04-30%2015-04-03.png))](https://github.com/farshadalemi/ToDoWithReact/blob/main/Screenshot%20from%202024-04-30%2015-04-03.png)" width="350" title="hover text">
   <img src="[Screenshot from 2024-04-30 15-04-03.png](https://github.com/farshadalemi/ToDoWithReact/blob/main/Screenshot%20from%202024-04-30%2015-04-03.png))" width="350" alt="accessibility text">
 </p>
 
